@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/GDPVb20V)
 # Mystery Function
 
 What does the `mystery()` function in the following piece of code do? Add your
@@ -11,3 +12,6 @@ function mystery(a) {
     else return a[0];
 }
 ```
+
+##Answer:
+The mystery() function recursively finds the maximum value in an array.
