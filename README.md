@@ -12,3 +12,6 @@ function mystery(a) {
     else return a[0];
 }
 ```
+
+##Answer:
+The mystery() function recursively finds the maximum value in an array.
